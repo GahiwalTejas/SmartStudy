@@ -82,6 +82,6 @@ constructor(){
 
 }
 
-const account=new AuthService();
+const authServices=new AuthService();
 
-export default account;
+export default authServices;
